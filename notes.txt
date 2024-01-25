@@ -1,0 +1,26 @@
+Tools: 
+    Compiler - Computer software that translates (compiles) source code written in a high-level language (e.g., C++) into a set of machine-language instructions that can be understood by a digital computer's CPU. 
+        side notes: Top three most popular compilers are GCC, MSvc and Clang. Winlibs can give you access to GCC and Clang compilers. MSvc is Microsft compiler. There are online compilers such as CompilerExplorer, Wandbox, Colio.
+
+    IDE (integrated development environment) - Is a software application that helps programmers develop software code efficiently. It increases developer productivity by combining capabilities such as software editing, building, testing, and packaging in an easy-to-use application.
+
+Techniques:
+    1
+
+Class/funcations/Data Types:
+    Statements: Is a basic unit of computatuon in a C++ program. When a program is executed it's done in order from top to bottom.
+    
+    Funcations: A function is a block of code that performs some operation. A function can optionally define input parameters that enable callers to pass arguments into the function.
+
+    Number systems: Such as binary, hexadecimal and octal. These systems allow computer read/transfer/comunicate data.
+
+
+
+Good practics & info:
+    Commenting code: Dont over comment but put just good amount so people can follow whats going on.
+
+    Look at warnings/errors: There are three types Compiler Time Errors, Runtime Errors and Warnings. Compile Time Errors are where error happens when the compiler find and error with your code and not able to convert the code into binary bits. Runtime errors are happens during execution of the code so after being compiled so doesnt do what you intended it todo i.g. crashes. Warning are nothing that breaks the code e.g. maybe somehting no being used.
+
+    C++ features: Are bult into C++ language and the bastic rules that C++ foundation is on.
+    Standard library: These are libraries such as iostrean and string which you use include to put into your code.
+    STL: This is a collection of speclized libraries. 
